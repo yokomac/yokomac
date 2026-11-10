@@ -36,20 +36,25 @@ hobbies: [
   ]
 ```
 ## 🛠️TECH STACK
-### Fronted Development
-<img src="html-icon.svg" width="30" height="30">
-<img src="css-icon.svg" width="30" height="30">
-<img src="./javascript-icon.svg" width="30" height="30">
-<img src="./typescript-icon.svg" width="30" height="30">
+### ● Fronted Languages
+<img src="html-icon.svg" width="30" height="30"> <img src="css-icon.svg" width="30" height="30"> <img src="./javascript-icon.svg" width="30" height="30"> <img src="./typescript-icon.svg" width="30" height="30">
 
 HTML, CSS, SCSS, JavaScript, TypeScript
-### Web Development Tools
-WordPress, Elementor, Next.js
-### Development Environment
-Git, GitHub, Visual Studio Code, Node.js, npm
-### Design & Content
-UI Design, Visual Communication, Adobe Creative Suite, Digital Content Creation
-### Project Management
+### ● Backend Languages
+<img src="./node-js-icon.svg" width="30" height="30"> <img src="./postgresql-icon.svg" width="30" height="30"> <img src="./mongodb-icon.svg" width="30" height="30">
+
+Node.js, PostgreSQL, MongoDB
+### Frameworks
+<img src="./react-js-icon.svg" width="30" height="30"> <img src="./nextjs-icon.svg" width="30" height="30"> <img src="./tailwind-css-icon.svg" width="30" height="30"> <img src="./bootstrap-5-logo-icon.svg" width="30" height="30">
+
+React.js, Next.js, Tailwind CSS, Bootstrap
+### ● Tools
+<img src="./github-icon.svg" width="30" height="30"> <img src="./npm-icon.svg" width="30" height="30"> <img src="./wordpress-icon.svg" width="30" height="30"> <img src="./adobe-illustrator-icon.svg" width="30" height="30"> <img src="./adobe-photoshop-icon.svg" width="30" height="30"> <img src="./adobe-premiere-pro-icon.svg" width="30" height="30"> <img src="./figma-icon.svg" width="30" height="30"> <img src="./docker-icon.svg" width="30" height="30"> <img src="./google-firebase-icon.svg" width="30" height="30"> <img src="./vercel-icon.svg" width="30" height="30">
+
+GitHub, npm, WordPress, Adobe Illustrator, Adobe Photoshop,  Adobe Premiere, Figma, Docker, Firebase, Vercel
+### ● Design Concepts
+System Design, Data Structures & Algorithms, UI&UX, Microservices, Security, Visual Communication, Severless
+### ● Project Management
 Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
 
 
