@@ -6,11 +6,16 @@ And, I'm looking for Web Development or Software engineer position now.
 - Availability: Full-time employment starting in November 2027.
 
 ## TECH STACK
-**Fronted Development**: HTML, CSS, JavaScript, TypeScript, Responsive Web Design
-**Web Development Tools**: WordPress, Elementor, Next.js
-**Development Environment**: Git, GitHub, Visual Studio Code, Node.js, npm
-**Design & Content**: UI Design, Visual Communication, Adobe Creative Suite, Digital Content Creation
-**Project Management**: Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
+### Fronted Development
+HTML, CSS, SCSS, JavaScript, TypeScript, Responsive Web Design
+### Web Development Tools
+WordPress, Elementor, Next.js
+### Development Environment
+Git, GitHub, Visual Studio Code, Node.js, npm
+### Design & Content
+UI Design, Visual Communication, Adobe Creative Suite, Digital Content Creation
+### Project Management
+Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
 <!--
 **yokomac/yokomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
