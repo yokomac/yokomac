@@ -7,6 +7,7 @@ And, I'm looking for Web Development or Software engineer position now.
 
 ## TECH STACK
 ### Fronted Development
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 HTML, CSS, SCSS, JavaScript, TypeScript, Responsive Web Design
 ### Web Development Tools
 WordPress, Elementor, Next.js
