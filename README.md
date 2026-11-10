@@ -1,3 +1,5 @@
+<img src="./abstract.gif" width="100%" height="80" />
+</br>
 # 👋 Hi there, My name is Takuto!
 I'm currently studying Web Development in Cornerstone Community College.
 And, I'm looking for Web Development or Software engineer position now.
@@ -33,10 +35,13 @@ hobbies: [
   "Watching Movies"
   ]
 ```
-## TECH STACK
+## 🛠️TECH STACK
 ### Fronted Development
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-HTML, CSS, SCSS, JavaScript, TypeScript, Responsive Web Design
+<img src="html-icon.svg" width="30" height="30">
+<img src="css-icon.svg" width="30" height="30">
+<img src="./javascript-icon.svg" width="30" height="30">
+<img src="./typescript-icon.svg" width="30" height="30">
+HTML, CSS, SCSS, JavaScript, TypeScript
 ### Web Development Tools
 WordPress, Elementor, Next.js
 ### Development Environment
@@ -46,7 +51,6 @@ UI Design, Visual Communication, Adobe Creative Suite, Digital Content Creation
 ### Project Management
 Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 
 <!--
 **yokomac/yokomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
