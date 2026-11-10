@@ -16,6 +16,9 @@ Git, GitHub, Visual Studio Code, Node.js, npm
 UI Design, Visual Communication, Adobe Creative Suite, Digital Content Creation
 ### Project Management
 Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
 <!--
 **yokomac/yokomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
