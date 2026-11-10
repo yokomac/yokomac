@@ -1,10 +1,38 @@
 # 👋 Hi there, My name is Takuto!
 I'm currently studying Web Development in Cornerstone Community College.
 And, I'm looking for Web Development or Software engineer position now.
-## PROFILE SUMMARY
+## 💾 PROFILE SUMMARY
 - Digital design and web development professional with over 3 years of experience in project management, digital content creation, website maintenance, and visual communication across technology and community-focused projects.
 - Availability: Full-time employment starting in November 2027.
-
+```
+name: Takuto Yokomaku
+based_in: Vancouver, British Columbia
+Position: Full Stack Developer
+background: [
+    "Graphic Designer",
+    "Project Manager",
+    "Engineer"
+    ]
+interests: [
+  "Web and Mobile Development",
+  "UI/UX Design",
+  "Graphic Design"
+  ]
+currently_learning: [
+  "JavaScript",
+  "TypeScript"
+  ]
+primal_goals: [
+    "Get a job at a Canadian or American Tech company",
+    "Contribute start-up ecosystem in Canada"
+  ]
+hobbies: [
+  "Gaming",
+  "Reading Books",
+  "Traveling",
+  "Watching Movies"
+  ]
+```
 ## TECH STACK
 ### Fronted Development
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
