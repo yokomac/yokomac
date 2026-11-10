@@ -1,5 +1,5 @@
 <img src="./abstract.gif" width="100%" height="80" />
-</br>
+
 # 👋 Hi there, My name is Takuto!
 I'm currently studying Web Development in Cornerstone Community College.
 And, I'm looking for Web Development or Software engineer position now.
@@ -41,6 +41,7 @@ hobbies: [
 <img src="css-icon.svg" width="30" height="30">
 <img src="./javascript-icon.svg" width="30" height="30">
 <img src="./typescript-icon.svg" width="30" height="30">
+
 HTML, CSS, SCSS, JavaScript, TypeScript
 ### Web Development Tools
 WordPress, Elementor, Next.js
