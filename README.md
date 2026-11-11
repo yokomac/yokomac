@@ -35,7 +35,7 @@ hobbies: [
   "Watching Movies"
   ]
 ```
-## 🛠️TECH STACK
+## 🛠️ TECH STACK
 ### ● Fronted Languages
 <img src="html-icon.svg" width="30" height="30"> <img src="css-icon.svg" width="30" height="30"> <img src="./javascript-icon.svg" width="30" height="30"> <img src="./typescript-icon.svg" width="30" height="30">
 
@@ -44,7 +44,7 @@ HTML, CSS, SCSS, JavaScript, TypeScript
 <img src="./node-js-icon.svg" width="30" height="30"> <img src="./postgresql-icon.svg" width="30" height="30"> <img src="./mongodb-icon.svg" width="30" height="30">
 
 Node.js, PostgreSQL, MongoDB
-### Frameworks
+### ● Frameworks
 <img src="./react-js-icon.svg" width="30" height="30"> <img src="./nextjs-icon.svg" width="30" height="30"> <img src="./tailwind-css-icon.svg" width="30" height="30"> <img src="./bootstrap-5-logo-icon.svg" width="30" height="30">
 
 React.js, Next.js, Tailwind CSS, Bootstrap
@@ -57,18 +57,6 @@ System Design, Data Structures & Algorithms, UI&UX, Microservices, Security, Vis
 ### ● Project Management
 Website Maintenance, Version Control, Cross-functional Collaboration, Project Coordination
 
-
-<!--
-**yokomac/yokomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+- Patent Searcher & Data Engineer | Toyota Motor Corporation | Japan
+- Designer & Project Manager | Kachinode Inc. | Japan
